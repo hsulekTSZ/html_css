@@ -1,0 +1,15 @@
+table,th, td {
+
+    border-color: pink;
+    border-width: 5px;
+    border-style: double;
+
+
+}
+table{
+    border-collapse: collapse;
+    text-align: right;
+    vertical-align: bottom;
+    height:50px;
+    width: 100%;
+}
