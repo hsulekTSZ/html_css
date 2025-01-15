@@ -1,0 +1,39 @@
+#p1{
+    border: solid 3px green;
+    margin: auto;
+}
+#p2{
+    border: solid 8px black;
+    margin-left: 12px;
+}
+#p3{
+    border: solid 1px yellow;
+    margin-right: 80px;
+}
+#p4{
+    border-bottom: solid 10px red;
+    margin-bottom: 1000px;
+}
+#p5{
+    border-top: solid 7px brown;
+    margin-left: 100px;
+}
+#p6{
+    border: solid 9px blue;
+    margin: auto;
+}
+#p7{
+    border: dashed 1px blue;
+    margin-right: 35px;
+}
+#p8{
+    border-bottom: dashed 18px blueviolet;
+}
+#p9{
+    border: dashed 10px red;
+    margin-left: 20px;
+}
+#p10{
+    border: dashed 5px yellow;
+    margin: auto;
+}

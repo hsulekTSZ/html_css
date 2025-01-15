@@ -1,0 +1,9 @@
+#p1{
+    border-style: inset;
+
+}
+#p2{
+    border: 5px solid black;
+    border-top-width: thin;
+    border-bottom-width: thin;
+}
