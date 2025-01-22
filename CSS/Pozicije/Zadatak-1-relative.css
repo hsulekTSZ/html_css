@@ -1,0 +1,17 @@
+#prvi{
+    width: 100px;
+    height: 100px;
+    background-color: deeppink;
+}
+#drugi{
+    width: 100px;
+    height: 100px;
+    background-color: lightblue;
+    position: relative;
+    left: 100px;
+}
+#treci{
+    width: 100px;
+    height: 100px;
+    background-color: lightgreen;
+}

@@ -1,0 +1,13 @@
+.P1{
+    border: 1px solid black;
+    outline: thick;
+    outline-style: double;
+    outline-color: red;
+}
+.P2{
+    border: 1px solid black;
+    outline: 3px;
+    outline-style: double;
+    outline-color: green;
+
+}
