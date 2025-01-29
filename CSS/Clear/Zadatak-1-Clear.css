@@ -1,0 +1,12 @@
+#prvi{
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    float: left;
+}
+#drugi{
+    height: 200px;
+    width: 200px;
+    clear: both;
+    border: 1px solid blue;
+}

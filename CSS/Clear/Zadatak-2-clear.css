@@ -1,0 +1,41 @@
+#head{
+    position: relative;
+    height: 200px;
+    width: 100%;
+    clear: both;
+    bottom: 20px;
+    border: 3px solid blue;
+    background: blue;
+}
+#prvi{
+    height: 200px;
+    width: 32%;
+    border: 3px solid blue;
+    background: blue;
+    float: left;
+
+}
+#drugi{
+    height: 200px;
+    width: 32%;
+    border: 3px solid blue;
+    background: blue;
+    float: right;
+
+}
+#treci{
+   position: relative;
+    height: 200px;
+    width: 32%;
+    border: 3px solid blue;
+    background: blue;
+    left: 34%;
+}
+#footer{
+
+    position: relative;
+    height: 200px;
+    width: 100%;
+    clear: both;
+    top: 20px;
+}
