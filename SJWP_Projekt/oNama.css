@@ -1,0 +1,126 @@
+body {
+    margin: 0;
+    background-color: black;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-image: url("slika/oNamaBackground2.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: fill;
+    backdrop-filter: brightness(60%);
+}
+
+
+
+#logoV {
+    padding-top: 2px;
+    width: 60px;
+    height: 50px;
+    padding-left: 10px;
+    margin: 0;
+    filter: brightness(0%);
+}
+
+
+.logoSlova {
+    height:50px;
+    font-size: 20px;
+    color:black;
+    padding-right: 30px;
+    padding-top: 15px;
+    font-weight: bold;
+    margin:0;
+}
+.sectionHeader {
+    margin: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+header {
+    height:80px;
+    margin: 0;
+    position: sticky;
+    top: 0;
+    background-color: white;
+    a:hover {
+        text-decoration: underline;
+        font-size:23px;
+    }
+
+}
+li {
+    margin: 0;
+    padding-right: 40px;
+    font-size: 20px;
+    font-family: "Playfair Display", sans-serif;
+    color:black;
+    font-weight: bold;
+}
+
+
+a {
+    margin: 0;
+    text-decoration: none;
+    color: black;
+
+}
+
+
+
+.opcijeHeader {
+    list-style-type: none;
+    display:flex;
+    flex-direction: row;
+
+
+}
+main {
+    h1 {
+        color: white;
+        text-align: center;
+        font-size: 70px;
+        text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 2px 2px 0 #000;
+    }
+    #oNamaTekst {
+        padding-left: 100px;
+        padding-right: 100px;
+        padding-top:60px;
+        font-family: "georgia", "Times New Roman", serif;
+        font-size: 25px;
+        color: white;
+        line-height: 1.4;
+        text-align: center;
+
+        text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 2px 2px 0 #000;
+    }
+}
+
+footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+
+    margin-top: 320px;
+
+    img {
+        width: 30px;
+        height: 30px;
+        margin: 0;
+        padding-left: 20px;
+    }
+    #email {
+
+        padding-left: 10px;
+        color: black;
+        padding-right: 30px;
+        font-size: 20px;
+    }
+
+}
+
