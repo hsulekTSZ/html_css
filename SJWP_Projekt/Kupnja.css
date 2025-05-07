@@ -78,12 +78,6 @@ a {
 }
 
 
-
-
-
-
-
-
 footer {
     display: flex;
     flex-direction: row;
@@ -91,7 +85,7 @@ footer {
     align-items: center;
 
 
-    background-color:white;
+    background-color: white;
 
     margin-top: 350px;
 
@@ -104,12 +98,14 @@ footer {
     #email {
 
         padding-left: 10px;
-        color: white;
+        color: black;
         padding-right: 30px;
         font-size: 20px;
     }
 }
-#mainMusko {
+
+
+#mainZensko {
     padding-left: 70px;
     padding-right: 70px;
 
@@ -117,59 +113,15 @@ footer {
 h1 {
     padding-left: 50px;
 }
-.slikaMajice {
-    width: 260px;
-    height: 300px;
-    text-align: center;
 
-}
-.slikaHlace {
-    width: 180px;
-    height: 320px;
-    text-align: center;
-}
-
-
-.majice {
-
+#form {
     display: flex;
-    flex-direction: row;
     flex-wrap: wrap;
-    row-gap: 40px;
+    justify-content: space-between;
 
-}
-.hlace {
-    margin-top: 80px;
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-}
-
-
-.sekcija {
-    display: flex;
-    flex-direction: column;
-    width: 350px;
-    align-items: center;
 
 
 
 }
-.ImeCijena {
-    margin: 2px;
-    font-family: "Times New Roman", sans-serif;
-}
-.gumbKupnja {
-    width: 100px;
-    margin-top: 10px;
-}
-
-.pojasevi {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    row-gap: 40px;
-}
-
 
 
